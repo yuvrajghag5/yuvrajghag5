@@ -35,7 +35,7 @@ My goal is to become an AI Engineer capable of developing production-ready AI sy
 
 <p align="left">
 
-<a href="www.linkedin.com/in/yuvraj-ghag">
+<a href="https://www.linkedin.com/in/yuvraj-ghag">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
